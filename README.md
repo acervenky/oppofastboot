@@ -1,5 +1,5 @@
 # Fastboot Images For Oppo Devices
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facervenky%2Foppofastboot)](https://hits.seeyoufarm.com) [![Hits](https://img.shields.io/github/issues-closed/acervenky/oppofastboot)](https://github.com/acervenky/oppofastboot/issues)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facervenky%2Foppofastboot)](https://hits.seeyoufarm.com) [![Issues](https://img.shields.io/github/issues-closed/acervenky/oppofastboot)](https://github.com/acervenky/oppofastboot/issues)
 
 | Device | Region | Firmware Version | Link |
 | :-: | :-: | :-: | :-: | 
